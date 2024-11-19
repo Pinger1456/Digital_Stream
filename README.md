@@ -84,7 +84,8 @@ digital_stream/
 │   ├── test_config.py    # Tests for config module
 │   ├── test_stream.py    # Tests for stream module
 │   └── __init__.py       # Marks the directory as a package
-└── requirements.txt      # Project dependencies
+├── requirements-dev.txt   # Project dependencies   
+└── requirements.txt      
 ```
 
 ---
